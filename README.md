@@ -1,5 +1,6 @@
 # databricks-lakehouse-etl-pipeline
-<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/5c2ef0ff-28b7-4635-aba4-db01b2648955" />
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/c2c11af1-bbc6-4eac-9528-7b48bf0c8fc1" />
+
 ## Project Architecture
 
 This project demonstrates an end-to-end **Lakehouse ETL pipeline** built on **Azure Databricks** using the **Medallion Architecture (Bronze → Silver → Gold)**.
